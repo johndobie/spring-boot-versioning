@@ -1,8 +1,6 @@
 # spring-boot-versioning
 This is the code for the following blog.
 
-https://johndobie.com/blog/errors-in-spring-boot-microservices
-
 # Running the Example
 Checkout the code, build and run the application.
 ```bash
